@@ -1,0 +1,10 @@
+Library/*
+obj/*
+Packages/*
+Temp/*
+.vs/MiningLoads/DesignTimeBuild/.dtbcache
+.vs/MiningLoads/v15/.suo
+.vs/MiningLoads/v15/Server/sqlite3/db.lock
+.vs/MiningLoads/v15/Server/sqlite3/storage.ide
+.vs/MiningLoads/v15/Server/sqlite3/storage.ide-shm
+.vs/MiningLoads/v15/Server/sqlite3/storage.ide-wal
